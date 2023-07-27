@@ -30,9 +30,4 @@ public class Knight_Animation : MonoBehaviour
         yield return new WaitForSeconds(idleDuration);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
